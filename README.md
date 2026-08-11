@@ -293,7 +293,11 @@ results/quality_prediction_model.pkl
 results/energy_prediction_model.pkl
 ```
 
-### Optimization Results
+### Optimization Result
+
+![Quality-Energy Optimization](figures/quality_energy_optimization.png)
+
+---
 
 ```text
 results/optimized_manufacturing_settings.csv
