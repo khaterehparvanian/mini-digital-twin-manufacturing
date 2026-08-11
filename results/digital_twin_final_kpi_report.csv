@@ -1,0 +1,17 @@
+KPI,Value
+Initial Quality,95.1079881018998
+Final Quality,95.14458652938323
+Quality Change,0.03659842748342612
+Initial Energy Consumption,35.044556256309676
+Final Energy Consumption,34.73735347366931
+Energy Reduction,0.30720278264036693
+Energy Reduction (%),0.8766062848493221
+Quality Target Error,0.003246532818238279
+Energy Target Error,0.0028026178809597013
+Disturbed Quality,91.23588414552307
+Recovered Quality,95.16271858988584
+Quality Recovered,3.9268344443627683
+Disturbed Energy,35.65098761865408
+Recovered Energy,34.733575397016644
+Recovery Energy Reduction,0.9174122216374343
+First Acceptable Recovery Cycle,14.0
